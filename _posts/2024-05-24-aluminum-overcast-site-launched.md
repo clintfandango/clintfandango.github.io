@@ -4,4 +4,4 @@ title: "Forecast: Aluminum Overcast"
 date: 2024-05-24
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+It's a weird, wonderful world. You should look up sometime, you'll never know what you'll see up there. 
