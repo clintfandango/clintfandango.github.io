@@ -11,7 +11,7 @@ layout: feed
 	<id>http://clintfandango.github.io/blog</id>
 	<author>
 		<name>Clint Fandango</name>
-		<email>slacker4129b@.pm.me</email>
+		<email>clintfandango@pm.me</email>
 	</author>
 
 	{% for post in site.posts %}
