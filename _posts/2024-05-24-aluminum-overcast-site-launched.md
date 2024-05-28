@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Clint Fandango
 title: "Forecast: Aluminum Overcast"
 date: 2024-05-24
 ---
