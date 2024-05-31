@@ -2,6 +2,12 @@
 layout: default
 title: Aluminum Overcast
 ---
+<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	
 <div class="blurb">
 	<h1>Today's Forecast: Aluminum Overcast!</h1>
 	<p>It's a weird, wonderful world. Go out and see it <a href="/about">Read more about my life...</a></p>
