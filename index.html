@@ -1,7 +1,6 @@
 ---
 layout: default
-list_title: Read Our Latest Posts
-title: ''
+title: Aluminum Overcast
 ---
 <ul class="posts">
 
@@ -9,4 +8,8 @@ title: ''
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 </ul>
+
+...
+{% include blog.html %}
+...
 
