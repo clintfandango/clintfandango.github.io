@@ -28,13 +28,13 @@
 
     <div class="wrapper">
      <nav>
+    {% for item in site.data.navigation %}
        <li>
-  {% for item in site.data.navigation %}
     <a href="{{ item.link }}" {% if page.url == item.link %}{% endif %}>
       {{ item.name }}
-    </a>
+    </a></li>
   {% endfor %}
-         </li>
+         
     </nav>
       <section>
         {{ content }}
