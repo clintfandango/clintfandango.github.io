@@ -1,13 +1,7 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <li>
-    {% include navigation.html %}
-      {{ content }}
-    </li>
-  </body>
-</html>
+<nav>
+  <ul>
+    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="{{ site.baseurl }}/about">About</a></li>
+    <!-- Add more links as needed -->
+  </ul>
+</nav>
