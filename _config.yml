@@ -1,6 +1,5 @@
 title: Aluminum Overcast
-description: >- # this means to ignore newlines until "baseurl:"
-Keep Looking Up
+description: Keep Looking Up # this means to ignore newlines until "baseurl:"
 email: clintfandango@pm.me
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://aluminumovercast.com" # the base hostname & protocol for your site
