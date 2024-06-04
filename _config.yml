@@ -1,9 +1,12 @@
-name: Aluminum Overcast
+title: Aluminum Overcast
+description: >- # this means to ignore newlines until "baseurl:"
+Keep Looking Up
+email: clintfandango@pm.me
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://aluminumovercast.com" # the base hostname & protocol for your site
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-remote_theme: pages-themes/leap-day@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme
-- jekyll-feed
-- jekyll-sitemap
-- jekyll-seo-tag
+
+# Add any other configuration variables here
