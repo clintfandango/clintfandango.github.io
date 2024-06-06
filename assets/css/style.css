@@ -1,3 +1,10 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
 // Example styles for the navigation, categories, and posts
 nav ul {
   list-style: none;
