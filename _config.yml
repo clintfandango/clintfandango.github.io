@@ -1,6 +1,8 @@
 title: Aluminum Overcast
 description: Keep Looking Up # this means to ignore newlines until "baseurl:"
 email: clintfandango@pm.me
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "https://aluminumovercast.com"  # the base hostname & protocol for your site
 markdown: kramdown
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
