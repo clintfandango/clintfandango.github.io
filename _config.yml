@@ -5,6 +5,6 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://aluminumovercast.com" # the base hostname & protocol for your site
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: minima
+theme: jekyll-theme-minimal
 
 # Add any other configuration variables here
