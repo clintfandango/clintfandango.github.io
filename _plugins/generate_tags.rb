@@ -6,7 +6,7 @@ module Jekyll
       if site.layouts.key? 'tag'
         dir = 'tag'
         site.tags.each do |tag, posts|
-          write_tag_page(site, File.join(dir, tag.to_s), tag)
+          write_tag_page(site, File.join(dir, tag[0].to_s.slugify), tag[0])
         end
       end
     end
@@ -25,6 +25,7 @@ module Jekyll
       @base = base
       @dir = dir
       @name = 'index.html'
+
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'tag.html')
       self.data['tag'] = tag
