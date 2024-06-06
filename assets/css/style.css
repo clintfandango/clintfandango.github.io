@@ -4,22 +4,3 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
-
-// Example styles for the navigation, categories, and posts
-nav ul {
-  list-style: none;
-  padding: 0;
-}
-
-nav ul li {
-  display: inline;
-  margin-right: 10px;
-}
-
-.categories, .posts {
-  margin-top: 20px;
-}
-
-.posts .post {
-  margin-bottom: 20px;
-}
