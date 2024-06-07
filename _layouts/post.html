@@ -6,8 +6,18 @@ layout: default
 <p>Tags: 
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><span style="white-space: nowrap;">{{ tag_name }}</span>>&nbsp;</a>
+    <div id="#{{ tag_name | slugize }}"></div>
   {% endfor %}
 </p>
 {{ content }}
-<p>Categories: {{ page.categories | array_to_sentence_string  }}</p>
+ <div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
