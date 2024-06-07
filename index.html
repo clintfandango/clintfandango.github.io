@@ -6,8 +6,8 @@ layout: default
     <h2>Posts</h2>
     {% for post in site.posts %}
       <div class="post">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p>{{ post.date | date: "%B %d, %Y" }} - <a href="{{post.categories}}">{{category}}</a></p>
+        <h3>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p><a href="{{ post.categories }}">{{ category }}</a></p>
         <p>{{ post.excerpt }}</p>
       </div>
     {% endfor %}
