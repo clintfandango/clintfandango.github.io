@@ -10,9 +10,3 @@ plugins:
 # Add any other configuration variables here
 tag_page_dir: tag
 tag_page_layout: tag
-defaults:
-  - scope:
-      type: categories  # select all category pages
-    values:
-      layout: category_page
-      permalink: categories/:category/
