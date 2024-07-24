@@ -1,6 +1,7 @@
 title: Aluminum Overcast
 description: Keep Looking Up # this means to ignore newlines until "baseurl:"
 email: clintfandango@pm.me
+mastodon: clintfandango@mastodon.social
 baseurl: ""  # the subpath of your site, e.g. /blog
 include: ["/.well-known" ]
 markdown: kramdown
