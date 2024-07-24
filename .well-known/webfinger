@@ -2,25 +2,26 @@
 layout: null
 ---
 {
-  "subject": "acct:clintfandango@$aluminumovercast.com",
+  "subject": "acct:clintfandango@mastodon.social",
   "aliases": [
-    "https://aluminumovercast.com/@clintfandango",
-    "https://aluminumovercast.com/users/clintfandango"
+    "https://mastodon.social/@clintfandango",
+    "https://mastodon.social/users/clintfandango"
   ],
   "links": [
     {
       "rel": "http://webfinger.net/rel/profile-page",
       "type": "text/html",
-      "href": "https://aluminumovercast.com/@clintfandango"
+      "href": "https://mastodon.social/@clintfandango"
     },
     {
       "rel": "self",
       "type": "application/activity+json",
-      "href": "https://aluminumovercast.com/users/clintfandango"
+      "href": "https://mastodon.social/users/clintfandango"
     },
     {
       "rel": "http://ostatus.org/schema/1.0/subscribe",
-      "template": "https://aluminumovercast.com/authorize_interaction?uri={uri}"
+      "template": "https:///mastodon.social/authorize_interaction?uri={uri}"
     }
   ]
 }
+
