@@ -1,0 +1,27 @@
+---
+layout: null
+permalink: /.well-known/webfinger
+---
+{
+  "subject": "acct:clintfandango@$aluminumovercast.com",
+  "aliases": [
+    "https://aluminumovercast.com/@clintfandango",
+    "https://aluminumovercast.com/users/clintfandango"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://aluminumovercast.com/@clintfandango"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://aluminumovercast.com/users/clintfandango"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://aluminumovercast.com/authorize_interaction?uri={uri}"
+    }
+  ]
+}
