@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: F-6"
-tag: F-6
+title: "Tag: Gundam"
+tag: Gundam
 robots: noindex
 ---

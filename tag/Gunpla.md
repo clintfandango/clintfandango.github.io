@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: c-53"
-tag: c-53
+title: "Tag: Gunpla"
+tag: Gunpla
 robots: noindex
 ---

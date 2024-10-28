@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: military"
-tag: military
+title: "Tag: Bandai"
+tag: Bandai
 robots: noindex
 ---

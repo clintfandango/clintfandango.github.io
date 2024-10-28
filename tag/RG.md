@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: tankers"
-tag: tankers
+title: "Tag: RG"
+tag: RG
 robots: noindex
 ---
