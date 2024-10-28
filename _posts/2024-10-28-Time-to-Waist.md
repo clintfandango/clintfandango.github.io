@@ -4,7 +4,7 @@ author: Clint Fandango
 title: "Time to Waist"
 date: 2024-10-28
 categories: [RG Unicorn Gundam (Gundam Base Gold Plated)]
-tags: [Bandai, Gundam, Gunpla, RG, Unicorn Gundam, Gold Plated]
+tags: [Bandai, Gundam, Gunpla, RG, Unicorn_Gundam, Gold_Plated]
 ---
 I finally got back to the model this week with the intent of completing the other leg and the waist. It had been a couple of weeks since I had the chance to work on it, and I completely forgot all the stuff I learned on the other leg, so it didn't got faster.
 
