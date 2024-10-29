@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Clint Fandango
-title: Your Post Title
+title: He Got Legs
 date: 2024-10-20
 categories: [RG Unicorn Gundam (Gundam Base Gold Plated)]
 tags: [Bandai, Gundam, Gunpla, RG, Unicorn_Gundam, Gold_Plated]
