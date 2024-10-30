@@ -6,6 +6,8 @@ date: 2024-10-28
 categories: [RG Unicorn Gundam (Gundam Base Gold Plated)]
 tags: [Bandai, Gundam, Gunpla, RG, Unicorn_Gundam, Gold_Plated]
 ---
+![These Legs Say Confident Yet Relaxed](/assets/images/legs_complete2.JPG)
+
 I finally got back to the model this week with the intent of completing the other leg and the waist. It had been a couple of weeks since I had the chance to work on it, and I completely forgot all the stuff I learned on the other leg, so it didn't got faster.
 
 ![The Workspace](/assets/images/Workspace_sm.png)
@@ -40,7 +42,6 @@ The Dodgers were well into the 3rd inning and Tommy Edman had just hit a home ru
 This seemed like a natural stopping point, especially after the typical frustration of assembling the waist piece, so I connected the legs and called it a day.
 
 ![The Legs Coy But Approachable](/assets/images/legs_complete1.JPG)
-![These Legs Say Confident Yet Relaxed](/assets/images/legs_complete2.JPG)
 ![The Tailings](/assets/images/tailings.JPG)
 
 Next up will be the Chest piece, which will likely be a full session on its own. I'm looking forward to seeing if the great experiences assembling the legs continues with the chest.
