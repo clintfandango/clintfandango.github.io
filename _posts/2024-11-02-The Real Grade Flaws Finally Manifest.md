@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Clint Fandango
-title: The Real Grade Flaws Finally Manifest
+title: "The Real Grade Flaws Finally Manifest"
 date: 2024-11-02
 categories: [RG Unicorn Gundam (Gundam Base Gold Plated)]
 tags:[Bandai, Gundam, Gunpla, RG, Unicorn_Gundam, Gold_Plated]
