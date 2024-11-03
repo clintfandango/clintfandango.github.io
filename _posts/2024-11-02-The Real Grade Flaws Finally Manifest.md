@@ -4,7 +4,7 @@ author: Clint Fandango
 title: "The Real Grade Flaws Finally Manifest"
 date: 2024-11-02
 categories: [RG Unicorn Gundam (Gundam Base Gold Plated)]
-tags:[Bandai, Gundam, Gunpla, RG, Unicorn_Gundam, Gold_Plated]
+tags: [Bandai, Gundam, Gunpla, RG, Unicorn_Gundam, Gold_Plated]
 ---
 ![The Backside](/assets/images/rearview.png)
 
@@ -30,9 +30,9 @@ I decided to put those two pieces together on their own to see how they'd fit wi
 
 At last, the model couldn't take it any longer and finally admitted it was a true Real Grade after all.
 
-I shook my head, but any disappointment I may have felt immediately faded away as Howard Shore's Concerning Hobbits came on the radio. It's always a pleasant surprise when the classical station plays something from a movie score, and KUSC these days is especially fond of Howard Shore's The Lord of the Rings music. I'm not complaining.
+I shook my head, but any disappointment I may have felt immediately faded away as Howard Shore's *Concerning Hobbits* came on the radio. It's always a pleasant surprise when the classical station plays something from a movie score, and KUSC these days is especially fond of Howard Shore's *The Lord of the Rings* music. I'm not complaining.
 
-It was quickly followed-up by Holst's Mercury, The Winged Messenger, and I was in a great mood as I pressed on, hoping that the arm piece was the only flaw in what up to this point had been an exceptional model building experience.
+It was quickly followed-up by Holst's *Mercury, The Winged Messenger*, and I was in a great mood as I pressed on, hoping that the arm piece was the only flaw in what up to this point had been an exceptional model building experience.
 
 Luckily, all the other pieces fit together fine and stayed together, but the moment I tried to manipulate that one arm, the affected piece fell out.
 
