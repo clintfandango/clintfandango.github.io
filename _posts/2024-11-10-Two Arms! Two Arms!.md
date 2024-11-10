@@ -8,11 +8,11 @@ tags: [Bandai, Gundam, Gunpla, RG, Unicorn_Gundam, Gold_Plated]
 ---
 ![Completed Arms Side View](/assets/images/Arms Complete Side.png)
 
-After a couple of minor disappointments last time, I sat down wondering if the issues I experienced were a fluke, or if they would continue as I worked on completing the arms and shoulders of the model.
+After a [couple of minor disappointments last time](https://aluminumovercast.com/rg%20unicorn%20gundam%20(gundam%20base%20gold%20plated)/2024/11/02/The-Real-Grade-Flaws-Finally-Manifest.html), I sat down wondering if the issues I experienced were a fluke, or if they would continue as I worked on completing the arms and shoulders of the model.
 
 Since the internal frames were already complete, most of the work this time around involved a lot of gold-plated plastic with undergates to give this gundam his big, shiny limbs.
 
-![Arm Parts](/assets/images/arms.png)
+![Arm Parts](/assets/images/Arms.png)
 
 The right arm went off without a hitch and given the number of pieces and some of the more complex fits compared to the rest of the model, whatever tension I felt melted away and I was humming along once again.
 
