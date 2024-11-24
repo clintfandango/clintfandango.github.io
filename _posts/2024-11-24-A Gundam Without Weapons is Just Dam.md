@@ -2,7 +2,7 @@
 layout: post
 author: Clint Fandango
 title: "A Gundam Without Weapons is Just Dam"
-date: 2024-11-18
+date: 2024-11-24
 categories: [RG Unicorn Gundam (Gundam Base Gold Plated)]
 tags: [Bandai, Gundam, Gunpla, RG, Unicorn_Gundam, Gold_Plated]
 ---
